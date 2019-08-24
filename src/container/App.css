@@ -1,0 +1,9 @@
+.Container {
+  max-width: 1000px;
+  margin: auto;
+  justify-content: center;
+}
+
+.SearchBtn {
+  top: 20px;
+}
