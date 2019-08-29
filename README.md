@@ -2,7 +2,7 @@
 
 Add buses to be tracked and set a timer to remind you when there is x minutes till the next tracked bus arrives
 
-* Currently postponing development to learn advanced web dev *
+* Currently postponing development to learn advanced web dev 
 
 
 ### Prerequisites
